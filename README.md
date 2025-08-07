@@ -1,4 +1,4 @@
-# WIT-JAVA-Challenge
+# JAVA API_Calculator-Challenge
 
 ## Goals ##
 
